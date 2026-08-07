@@ -1,7 +1,5 @@
 # Как узнать кто звонил по номеру: безопасная проверка неизвестного звонка
 
-[![Content validation](https://github.com/sherlock-tg-bot/kak-uznat-kto-zvonil-po-nomeru/actions/workflows/validate.yml/badge.svg)](https://github.com/sherlock-tg-bot/kak-uznat-kto-zvonil-po-nomeru/actions/workflows/validate.yml)
-
 Если вы не знаете, кто звонил по номеру, начните с обратного звонка только после проверки: неизвестный вызов может оказаться обычным контактом, рекламой или попыткой мошенничества. Для дополнительной навигации по открытым данным можно [Открыть в Telegram](https://go.sherlockbot.is/?utm_source=github&utm_medium=repository&utm_campaign=kak-uznat-kto-zvonil-po-nomeru).
 
 ## Что проверить до ответа
